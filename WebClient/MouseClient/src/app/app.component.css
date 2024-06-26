@@ -1,0 +1,13 @@
+.container-fluid {
+    margin-top: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    border: 1px solid #000;
+  }
+  
+  .table-bordered th,
+  .table-bordered td {
+    border: 1px solid #000 !important;
+  }
