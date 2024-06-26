@@ -12,7 +12,7 @@ namespace KolTaiib.Controllers
         {
             new Mouse { ID = 1, Model = "Myszka1", DPI = 16000 },
             new Mouse { ID = 2, Model = "Myszka2", DPI = 20000 },
-            new Mouse { ID = 2, Model = "Myszka3", DPI = 18000 }
+            new Mouse { ID = 3, Model = "Myszka3", DPI = 18000 }
         };
 
         [HttpGet]

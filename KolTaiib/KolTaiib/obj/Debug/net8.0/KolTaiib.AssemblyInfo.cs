@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KolTaiib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d4e4b19c34c77ec5645064f0afc0ef993663515")]
 [assembly: System.Reflection.AssemblyProductAttribute("KolTaiib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KolTaiib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

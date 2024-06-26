@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hhLXQWd3YI16oOe5ImpYwpU94nUwCs2XRyiU8Ftef0PXukh0BvdTS83W92xK8YZXOwVY7URJOYoNMCe5KAwo8A==",
+  "dgSpecHash": "hc3kptaTX1/Z5A2Uonq8fKQV3VzRafJMVK05hQ+ckyoKnkuiYdqD4utX80WtAX3Oq6Sec7BTXrRJYCVZ1eISSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wojte\\source\\repos\\KolTaiib\\KolTaiib\\KolTaiib.csproj",
+  "projectFilePath": "D:\\Taib\\KolTaiib\\KolTaiib\\KolTaiib\\KolTaiib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wojte\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\wojte\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

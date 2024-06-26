@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wojte\\source\\repos\\KolTaiib\\KolTaiib\\KolTaiib.csproj": {}
+    "D:\\Taib\\KolTaiib\\KolTaiib\\KolTaiib\\KolTaiib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wojte\\source\\repos\\KolTaiib\\KolTaiib\\KolTaiib.csproj": {
+    "D:\\Taib\\KolTaiib\\KolTaiib\\KolTaiib\\KolTaiib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wojte\\source\\repos\\KolTaiib\\KolTaiib\\KolTaiib.csproj",
+        "projectUniqueName": "D:\\Taib\\KolTaiib\\KolTaiib\\KolTaiib\\KolTaiib.csproj",
         "projectName": "KolTaiib",
-        "projectPath": "C:\\Users\\wojte\\source\\repos\\KolTaiib\\KolTaiib\\KolTaiib.csproj",
+        "projectPath": "D:\\Taib\\KolTaiib\\KolTaiib\\KolTaiib\\KolTaiib.csproj",
         "packagesPath": "C:\\Users\\wojte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wojte\\source\\repos\\KolTaiib\\KolTaiib\\obj\\",
+        "outputPath": "D:\\Taib\\KolTaiib\\KolTaiib\\KolTaiib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
